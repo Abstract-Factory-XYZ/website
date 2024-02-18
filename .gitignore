@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignore Hugo's generated files
+/public/
+/resources/_gen/
+
+# Ignore Hugo's temporary files
+/hugo_stats.json
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
