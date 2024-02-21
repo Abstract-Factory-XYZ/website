@@ -3,25 +3,25 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  text: "Our team of software experts is strategically based in Eastern Europe, ensuring a potent combination of quality-focused services and cost-effectiveness."
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Team Enhancement"
+      text: "The Team Enhancement service is ideal for you if you already have a project and a team. It is designed for clients who need additional team members to strengthen their existing structure."
       button:
         label: "Learn more"
-        url: "#"
+        url: "/team-enhancement"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Custom Software Development"
+      text: "When you need a comprehensive software solution created from scratch, our Custom Software Development service is your choice."
       button:
         label: "Learn more"
-        url: "#"
+        url: "/custom-software-development"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Web Development Consulting"
+      text: "If you have any ideas to share or questions to ask or concern to tell, feel free to reach us. We are always ready to help!"
       button:
         label: "Learn more"
-        url: "#"
+        url: "/web-development-consulting"

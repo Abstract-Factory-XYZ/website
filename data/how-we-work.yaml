@@ -1,5 +1,5 @@
 enabled: true
-id: "hero"
+id: "how-we-work"
 
 content:
   title: "We offer **high-quality** services at a competitive price!"
@@ -7,9 +7,8 @@ content:
 
   buttonPrimary:
     label: "How we work"
-    url: "/how-we-work"
+    url: "#"
 
   buttonSecondary:
     label: "Let's talk"
-    url: "/lets-talk"
-
+    url: ""
