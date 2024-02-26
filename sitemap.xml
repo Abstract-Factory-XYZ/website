@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://abstract-factory.xyz/</loc><lastmod>2024-02-21T00:00:00+00:00</lastmod></url><url><loc>https://abstract-factory.xyz/custom-software-development/</loc><lastmod>2024-02-21T00:00:00+00:00</lastmod></url><url><loc>https://abstract-factory.xyz/web-development-consulting/</loc><lastmod>2024-02-21T00:00:00+00:00</lastmod></url><url><loc>https://abstract-factory.xyz/how-we-work/</loc><lastmod>2024-02-18T00:00:00+00:00</lastmod></url><url><loc>https://abstract-factory.xyz/lets-talk/</loc><lastmod>2024-02-18T00:00:00+00:00</lastmod></url><url><loc>https://abstract-factory.xyz/our-team/</loc><lastmod>2024-02-18T00:00:00+00:00</lastmod></url><url><loc>https://abstract-factory.xyz/team-enhancement/</loc><lastmod>2024-02-18T00:00:00+00:00</lastmod></url><url><loc>https://abstract-factory.xyz/series/</loc></url><url><loc>https://abstract-factory.xyz/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://abstract-factory.xyz/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abstract-factory.xyz/custom-software-development/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abstract-factory.xyz/web-development-consulting/</loc>
+    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abstract-factory.xyz/how-we-work/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abstract-factory.xyz/lets-talk/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abstract-factory.xyz/our-team/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abstract-factory.xyz/team-enhancement/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abstract-factory.xyz/series/</loc>
+  </url><url>
+    <loc>https://abstract-factory.xyz/tags/</loc>
+  </url>
+</urlset>
