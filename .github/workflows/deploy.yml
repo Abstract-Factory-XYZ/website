@@ -3,7 +3,7 @@ name: Deploy Hugo to GitHub Pages
 on:
   push:
     branches:
-      - main  # or your default branch name
+      - main # or your default branch name
 
 permissions: write-all
 
@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
+        with:
+          submodules: 'recursive' # Fetches submodules recursively
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -21,7 +23,7 @@ jobs:
           extended: true
 
       - name: Build Hugo Site
-        run: hugo
+        run: hugo --minify -d public
 
       - name: List output files
         run: ls -R public
