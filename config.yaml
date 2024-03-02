@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Abstract-Factory"
-  description: "It is important for us not only to silently execute the technical part but also to provide quality expertise and become your partner in the world of software development!"
+  description: "It is important for us not only to execute the technical part but also to provide quality expertise and become your partner in the world of software development!"
   images: 
     - "images/hero-image.png"
 
