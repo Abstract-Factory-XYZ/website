@@ -25,12 +25,12 @@ params:
     dribbble: "https://www.linkedin.com/company/abstract-factory-xyz/"
 
   location:
-    - "Cape Coral, Florida, United States"
+    - "Fort Myers, Florida, United States"
     - "Lviv, Ukraine"
 
   contact:
-    - "vadym@abstract-factory.xyz"
     - "vlevin@abstract-factory.xyz"
+    - "vadym@abstract-factory.xyz"
 
   copyright: "© 2024 Abstract-Factory All Rights Reserved"
 

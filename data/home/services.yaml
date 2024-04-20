@@ -6,13 +6,6 @@ content:
   text: "Our team of software experts is strategically based in Eastern Europe, ensuring a potent combination of quality-focused services and cost-effectiveness."
   cards:
     - image: "images/services-web-development.png"
-      title: "Team Enhancement"
-      text: "The Team Enhancement service is ideal for you if you already have a project and a team. It is designed for clients who need additional team members to strengthen their existing structure."
-      button:
-        label: "Learn more"
-        url: "/team-enhancement"
-
-    - image: "images/services-web-development.png"
       title: "Custom Software Development"
       text: "When you need a comprehensive software solution created from scratch, our Custom Software Development service is your choice."
       button:
@@ -20,8 +13,15 @@ content:
         url: "/custom-software-development"
 
     - image: "images/services-web-development.png"
-      title: "Web Development Consulting"
-      text: "If you have any ideas to share or questions to ask or concern to tell, feel free to reach us. We are always ready to help!"
+      title: "Team Enhancement"
+      text: "The Team Enhancement service is ideal for you if you already have a project and a team. It is designed for clients who need additional team members to strengthen their existing structure."
       button:
         label: "Learn more"
-        url: "/web-development-consulting"
+        url: "/team-enhancement"
+
+    - image: "images/services-web-development.png"
+      title: "AI Development and Consulting"
+      text: "In few years each organization will have own AI solutions for its needs. It's your chance to be the first and leverage the competition."
+      button:
+        label: "Learn more"
+        url: "/ai-development"

@@ -3,47 +3,49 @@ title: "How We Work"
 date: 2024-02-18
 ---
 
-We offer [three different types of software development services](/#services), each catering to different levels of technical expertise and engagement from our side and providing related business services:
-- hiring
-- accounting
-- legal support
-- equipment
-- schedule
+We offer [three different types of software development services](/#services), each catering to different levels of technical expertise and engagement from our side and providing related business services: hiring, accounting, legal support, equipment, schedule.
+
 ---
 
 ### Main Technologies
 
+#### AI Development and Integration:
+- OpenAI API via GPT, DALL.E, Whisper.
+- Claude AI, LLaMA, Gemini, Midjourney, Stable Diffusion.
+- Hugging Face, LangChain, Voiceflow, BERT.
+
 #### Marketing and Business Development:
-- Google and Meta analytics
+- Google and Meta analytics.
 - Related technologies for marketing research and business development.
 
 #### Design:
-- Figma, Adobe Photoshop, Adobe Illustrator, ProtoPie
-- Related technologies for UX/UI design.
+- Figma, Adobe Photoshop, Adobe Illustrator, ProtoPie.
 - Webflow, Bubble, Wix for No-Code solutions and prototyping.
 
 #### Web UI Technologies:
-- JavaScript/TypeScript, React, Angular, Next.js
-- Related Web UI technologies.
+- JavaScript/TypeScript, React, Angular, Vue.js.
+- Blazor.
 
-#### .NET Ecosystem:
-- C# via .NET Framework and .NET5+, ASP.NET, WinForms and WPF, EntityFramework, MediatR, SignalR
-- Related Web and Desktop .NET Technologies.
+#### Web Backend Technologies:
+- Node.js, Fastify, Next.js.
+- C# via .NET Framework and .NET5+, ASP.NET Core, SignalR and related .NET ecosystem.
+- Java, Go, and respective frameworks with a focus on Web Backend development, as alternatives
 
-#### Alternative Technologies:
-- Java, Go, and respective frameworks with a focus on Web Backend development, as alternatives.
+#### Desktop Technologies and Mobile apps:
+- React Native.
+- WinForms and WPF.
 
 #### Infrastructure and Scaling:
-- CQRS, Message Bus (Kafka), Caching (Redis), Microservices
+- Kafka, Redis, Event-Driven Architecture.
 - Docker Containers, Kubernetes Clusters, Helm Charts for virtualization.
 
 #### DevOps and Cloud Environments:
-- AWS, Azure, GCD with GitHub Actions
-- Supportive DevOps for Cloud environments.
+- AWS, Azure, GCD.
+- GitHub Actions
 
 #### Databases:
-- MSSQL, MySQL, Postgres, NoSQL databases.
+- MSSQL, MySQL, PostgreSQL, NoSQL databases.
 
 #### Collaboration Tools:
-- GitHub/GitLab, Google Meet, Zoom, Slack, Microsoft Teams
+- GitHub/GitLab, Google Meet, Zoom, Slack, Microsoft Teams.
 - Project Management tools for collaboration and management.

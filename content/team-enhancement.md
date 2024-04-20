@@ -11,7 +11,9 @@ option is suitable for:
 - Non-technical small and medium-sized enterprises with a technical project and a team seeking
 temporary reinforcement of the technical team.
 
-How it works:
+---
+
+#### How it works.
 We carefully study your technical needs and project specifics. Afterward, we select and hire the
 appropriate technical talent and assist them in seamlessly integrating into your project. All management
 and processes related to the search, selection, engagement, as well as all secondary operational

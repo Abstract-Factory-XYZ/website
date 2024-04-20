@@ -18,7 +18,9 @@ This option is suitable for:
 opportunities, optimization, or software solutions.
 - Any enterprises facing a problem that can be solved through software development.
 
-How it works:
+---
+
+#### How it works.
 We thoroughly investigate your business idea and requirements, urgency, and goals. We create a model
 within which we formulate a potential technical solution and necessary business support (competitor
 research, prototyping, marketing). We engage appropriate experts and teams, manage the project,
