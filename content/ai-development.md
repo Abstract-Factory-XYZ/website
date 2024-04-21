@@ -3,7 +3,7 @@ title: "AI Development and Consulting"
 date: 2024-02-21
 ---
 
-AI is new databases, web applications, cloud applications, etc, but 100 times bigger. Each organizations soon will need it's own AI solutions for the specific needs.
+AI is new databases, web applications, cloud applications, but 100 times bigger. All organizations soon will need its own AI solutions for the specific needs.
 Abstract-Factory can offer: 
 - AI Proof of Concept.
 

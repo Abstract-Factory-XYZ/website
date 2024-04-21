@@ -21,7 +21,7 @@ content:
 
     - image: "images/services-web-development.png"
       title: "AI Development and Consulting"
-      text: "In few years each organization will have own AI solutions for its needs. It's your chance to be the first and leverage the competition."
+      text: "In a few years each organization will have its own AI solutions for its needs. It's your chance to be the first and get ahead of the competition."
       button:
         label: "Learn more"
         url: "/ai-development"
