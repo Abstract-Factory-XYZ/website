@@ -25,11 +25,10 @@ params:
     dribbble: "https://www.linkedin.com/company/abstract-factory-xyz/"
 
   location:
-    - "Fort Myers, Florida, United States"
-    - "Lviv, Ukraine"
+    - "EU"
+    - "Ukraine"
 
   contact:
-    - "CMO: vlevin@abstract-factory.xyz"
     - "CEO: vadym@abstract-factory.xyz"
 
   copyright: "© 2025 Abstract-Factory All Rights Reserved"
